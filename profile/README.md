@@ -9,3 +9,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 3 - Premières classes en Java : https://classroom.github.com/a/hso-zAaV
 
 Mini évaluation du mercredi 12 mars 2025 : https://classroom.github.com/a/spY5DMK0
+
+4 - Héritage, premiers exercices :  https://classroom.github.com/a/tX1EYT95
