@@ -13,3 +13,5 @@ Mini évaluation du mercredi 12 mars 2025 : https://classroom.github.com/a/spY5D
 4 - Héritage, premiers exercices :  https://classroom.github.com/a/tX1EYT95
 
 5 - Héritage: https://classroom.github.com/a/2GyGVFas
+
+6 - Exceptions : https://classroom.github.com/a/E9adhhQ-
