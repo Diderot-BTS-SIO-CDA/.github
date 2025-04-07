@@ -15,3 +15,5 @@ Mini évaluation du mercredi 12 mars 2025 : https://classroom.github.com/a/spY5D
 5 - Héritage: https://classroom.github.com/a/2GyGVFas
 
 6 - Exceptions : https://classroom.github.com/a/E9adhhQ-
+
+Devoir maison à rendre le 22 avril à 23h maximum : https://classroom.github.com/a/U_n7B5z1
