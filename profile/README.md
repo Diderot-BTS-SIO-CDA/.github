@@ -10,4 +10,6 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 
 4 - Utilitaires : https://classroom.github.com/a/7nIH7dae
 
-5 -  Début héritage : https://classroom.github.com/a/bJgmO1vt
+5 - Début héritage : https://classroom.github.com/a/bJgmO1vt
+
+6 - Héritage et classes abstraites : https://classroom.github.com/a/RJnRpltn
