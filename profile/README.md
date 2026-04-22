@@ -13,3 +13,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 5 - Début héritage : https://classroom.github.com/a/bJgmO1vt
 
 6 - Héritage et classes abstraites : https://classroom.github.com/a/RJnRpltn
+
+7 - Exceptions : https://classroom.github.com/a/AQXzlhma
